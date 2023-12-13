@@ -16,7 +16,7 @@ This project includes a React frontend and a Node.js backend designed to derive 
 
 ## Usage
 
-1. *Run Backend*: Navigate to the backend directory and start the server (node index.js).
+1. *Run Backend*: Navigate to the backend directory and start the server (node server.js).
 2. *Run Frontend*: In a separate terminal, go to the frontend directory and launch the React app (npm start).
 
 ## Note

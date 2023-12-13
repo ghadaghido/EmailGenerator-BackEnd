@@ -21,4 +21,4 @@ This project includes a React frontend and a Node.js backend designed to derive 
 
 ## Note
 
-The application is a prototype and uses static sample data for deriving email formats. It is designed for demonstration purposes and lacks authentication and advanced error handling.
+The application is a prototype and uses static sample data for deriving email formats. It is designed without database .
